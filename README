@@ -1,9 +1,4 @@
-######################################
-#
-# MAICON RODRIGO KELLER
-#
-######################################
+this project contains various Ruby examples of simple codes.
 
-THIS PROJECT CONTAINS VARIOUS RUBY EXAMPLES OF SIMPLE CODES.
-
--twitter_reader.rb :: this is a simple reader of twitters, use to implement your logic and add in your application
+twitter_reader.rb
+  this is a simple reader of twitters, use to implement your logic and add in your application
